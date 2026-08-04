@@ -8,7 +8,6 @@ class Solution(object):
         for i in nums:
             if i in s:
                 return True
-            else:
-                s.add(i)
+            s.add(i)
         return False
         
