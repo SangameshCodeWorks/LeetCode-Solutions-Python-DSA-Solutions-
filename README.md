@@ -3,3 +3,19 @@ A collection of my LeetCode solutions in Python with clean code, explanations, a
 
 
 "My daily LeetCode solutions written in Python with complexity analysis."
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SangameshCodeWorks/LeetCode-Solutions-Python-DSA-Solutions-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## String
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SangameshCodeWorks/LeetCode-Solutions-Python-DSA-Solutions-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SangameshCodeWorks/LeetCode-Solutions-Python-DSA-Solutions-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+<!---LeetCode Topics End-->
